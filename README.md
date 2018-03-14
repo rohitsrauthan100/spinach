@@ -1,2 +1,4 @@
-# spinach
-just another repository
+#Spinach
+
+I am new to Github. Please help me.
+ 
